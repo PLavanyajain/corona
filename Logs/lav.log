@@ -1,0 +1,126 @@
+120820 072347PM: INFO: Current google-chrome version is 87.0.4280
+120820 072347PM: INFO: Get LATEST driver version for 87.0.4280
+120820 072348PM: INFO: Get LATEST driver version for 87.0.4280
+120820 072348PM: INFO: Trying to download new driver from http://chromedriver.storage.googleapis.com/87.0.4280.88/chromedriver_win32.zip
+120820 072351PM: INFO: Driver has been saved in cache [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88]
+120820 072358PM: INFO: ******************Verifiying Loginpage*******************
+120820 072541PM: INFO: Current google-chrome version is 87.0.4280
+120820 072541PM: INFO: Get LATEST driver version for 87.0.4280
+120820 072541PM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+120820 072546PM: INFO: ******************Verifiying Loginpage*******************
+120820 072915PM: INFO: Current google-chrome version is 87.0.4280
+120820 072915PM: INFO: Get LATEST driver version for 87.0.4280
+120820 072915PM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+120820 072921PM: INFO: ******************Verifiying Loginpage*******************
+120820 072927PM: INFO: Loginpage is completely verified
+120820 073010PM: INFO: Current google-chrome version is 87.0.4280
+120820 073010PM: INFO: Get LATEST driver version for 87.0.4280
+120820 073010PM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+120820 073013PM: INFO: ******************Verifiying Loginpage*******************
+120820 073026PM: INFO: Loginpage is completely verified
+120820 073105PM: INFO: Current google-chrome version is 87.0.4280
+120820 073105PM: INFO: Get LATEST driver version for 87.0.4280
+120820 073106PM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+120820 073109PM: INFO: ******************Verifiying Loginpage*******************
+120820 073132PM: INFO: Loginpage is completely verified
+120920 114920AM: INFO: Current google-chrome version is 87.0.4280
+120920 114920AM: INFO: Get LATEST driver version for 87.0.4280
+120920 114921AM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+120920 114924AM: INFO: ******************Verifiying Loginpage*******************
+120920 114930AM: INFO: ********search messenger************
+120920 114931AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017934608820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5d225310144bde4c6b24a36f407a24c2/element
+120920 114932AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017934649430>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5d225310144bde4c6b24a36f407a24c2/element
+120920 114933AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000179346492B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5d225310144bde4c6b24a36f407a24c2/element
+120920 115220AM: INFO: Trying to download new driver from http://selenium-release.storage.googleapis.com/3.150/IEDriverServer_x64_3.150.1.zip
+120920 115223AM: INFO: Driver has been saved in cache [C:\Users\Lavanya\.wdm\drivers\IEDriverServer\x64\3.150.1]
+120920 115227AM: INFO: ******************Verifiying Loginpage*******************
+120920 115304AM: INFO: Current google-chrome version is 87.0.4280
+120920 115304AM: INFO: Get LATEST driver version for 87.0.4280
+120920 115304AM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+120920 115307AM: INFO: ******************Verifiying Loginpage*******************
+120920 115313AM: INFO: ********search messenger************
+120920 115451AM: INFO: Current google-chrome version is 87.0.4280
+120920 115451AM: INFO: Get LATEST driver version for 87.0.4280
+120920 115451AM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+120920 115453AM: INFO: ******************Verifiying Loginpage*******************
+120920 115500AM: INFO: ********search messenger************
+120920 115752AM: INFO: Current google-chrome version is 87.0.4280
+120920 115752AM: INFO: Get LATEST driver version for 87.0.4280
+120920 115752AM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+120920 115755AM: INFO: ******************Verifiying Loginpage*******************
+120920 115800AM: INFO: ********search messenger************
+121520 074818PM: INFO: Current google-chrome version is 87.0.4280
+121520 074818PM: INFO: Get LATEST driver version for 87.0.4280
+121520 074818PM: INFO: Get LATEST driver version for 87.0.4280
+121520 074818PM: INFO: Trying to download new driver from http://chromedriver.storage.googleapis.com/87.0.4280.88/chromedriver_win32.zip
+121520 074847PM: INFO: Driver has been saved in cache [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88]
+121520 074850PM: INFO: ******************Verifiying Loginpage*******************
+121520 074909PM: INFO: Loginpage is completely verified
+121520 074932PM: INFO: Current google-chrome version is 87.0.4280
+121520 074932PM: INFO: Get LATEST driver version for 87.0.4280
+121520 074933PM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+121520 074936PM: INFO: ******************Verifiying Loginpage*******************
+121520 074942PM: INFO: ********search messenger************
+121820 075913PM: INFO: Current google-chrome version is 87.0.4280
+121820 075913PM: INFO: Get LATEST driver version for 87.0.4280
+121820 075913PM: INFO: Get LATEST driver version for 87.0.4280
+121820 075913PM: INFO: Trying to download new driver from http://chromedriver.storage.googleapis.com/87.0.4280.88/chromedriver_win32.zip
+121820 075920PM: INFO: Driver has been saved in cache [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88]
+121820 075924PM: INFO: ******************Verifiying Loginpage*******************
+121820 080138PM: INFO: Current google-chrome version is 87.0.4280
+121820 080138PM: INFO: Get LATEST driver version for 87.0.4280
+121820 080139PM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+121820 080143PM: INFO: ******************Verifiying Loginpage*******************
+121820 080226PM: INFO: Current google-chrome version is 87.0.4280
+121820 080226PM: INFO: Get LATEST driver version for 87.0.4280
+121820 080227PM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+121820 080230PM: INFO: ******************Verifiying Loginpage*******************
+121820 080331PM: INFO: Current google-chrome version is 87.0.4280
+121820 080331PM: INFO: Get LATEST driver version for 87.0.4280
+121820 080331PM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+121820 080334PM: INFO: ******************Verifiying Loginpage*******************
+121820 080523PM: INFO: Current google-chrome version is 87.0.4280
+121820 080523PM: INFO: Get LATEST driver version for 87.0.4280
+121820 080524PM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+121820 080526PM: INFO: ******************Verifiying Loginpage*******************
+121920 110654AM: INFO: Getting latest mozilla release info for v0.28.0
+121920 110656AM: INFO: Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.28.0/geckodriver-v0.28.0-win64.zip
+121920 110706AM: INFO: Driver has been saved in cache [C:\Users\Lavanya\.wdm\drivers\geckodriver\win64\v0.28.0]
+121920 110836AM: INFO: Current google-chrome version is 87.0.4280
+121920 110836AM: INFO: Get LATEST driver version for 87.0.4280
+121920 110838AM: INFO: Get LATEST driver version for 87.0.4280
+121920 110838AM: INFO: Trying to download new driver from http://chromedriver.storage.googleapis.com/87.0.4280.88/chromedriver_win32.zip
+121920 111019AM: INFO: Driver has been saved in cache [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88]
+121920 111028AM: INFO: ******************Verifiying Loginpage*******************
+122320 110459AM: INFO: Current google-chrome version is 87.0.4280
+122320 110459AM: INFO: Get LATEST driver version for 87.0.4280
+122320 110459AM: INFO: Get LATEST driver version for 87.0.4280
+122320 110500AM: INFO: Trying to download new driver from http://chromedriver.storage.googleapis.com/87.0.4280.88/chromedriver_win32.zip
+122320 110738AM: INFO: Driver has been saved in cache [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88]
+122320 110742AM: INFO: ******************Verifiying Loginpage*******************
+122320 111302AM: INFO: Current google-chrome version is 87.0.4280
+122320 111302AM: INFO: Get LATEST driver version for 87.0.4280
+122320 111303AM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+122320 111306AM: INFO: ******************Verifiying Loginpage*******************
+122320 111357AM: INFO: Current google-chrome version is 87.0.4280
+122320 111357AM: INFO: Get LATEST driver version for 87.0.4280
+122320 111357AM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+122320 111400AM: INFO: ******************Verifiying Loginpage*******************
+122320 111439AM: INFO: Current google-chrome version is 87.0.4280
+122320 111439AM: INFO: Get LATEST driver version for 87.0.4280
+122320 111440AM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+122320 111443AM: INFO: ******************Verifiying Loginpage*******************
+122320 111509AM: INFO: Loginpage is completely verified
+122320 111554AM: INFO: Trying to download new driver from http://selenium-release.storage.googleapis.com/3.150/IEDriverServer_x64_3.150.1.zip
+122320 111607AM: INFO: Driver has been saved in cache [C:\Users\Lavanya\.wdm\drivers\IEDriverServer\x64\3.150.1]
+122320 111611AM: INFO: ******************Verifiying Loginpage*******************
+122320 111637AM: INFO: Current google-chrome version is 87.0.4280
+122320 111637AM: INFO: Get LATEST driver version for 87.0.4280
+122320 111637AM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+122320 111641AM: INFO: ******************Verifiying Loginpage*******************
+122320 111702AM: INFO: Loginpage is completely verified
+122320 112113AM: INFO: Current google-chrome version is 87.0.4280
+122320 112113AM: INFO: Get LATEST driver version for 87.0.4280
+122320 112113AM: INFO: Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+122320 112116AM: INFO: ******************Verifiying Loginpage*******************
+122320 112140AM: INFO: Loginpage is completely verified
